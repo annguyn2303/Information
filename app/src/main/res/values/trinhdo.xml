@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="trinhdo_array">
+        <item>Cao đẳng</item>
+        <item>Đại học</item>
+        <item>Cao học</item>
+    </string-array>
+</resources>
